@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is rebase1
+=======
+This is rebase2
+>>>>>>> 2d0cdc6 (rebase2 commit)
