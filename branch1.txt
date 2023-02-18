@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Hello
+Hi
+=======
+This is first change
+>>>>>>> refs/remotes/origin/ubuntu/branch1.
