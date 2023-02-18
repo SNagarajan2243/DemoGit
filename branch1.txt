@@ -3,4 +3,4 @@ Hello
 Hi
 =======
 This is first change
->>>>>>> refs/remotes/origin/ubuntu/branch1.
+>>>>>>> refs/remotes/origin/ubuntu/branch1
